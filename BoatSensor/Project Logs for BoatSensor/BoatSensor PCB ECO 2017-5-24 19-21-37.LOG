@@ -1,0 +1,5 @@
+Added Component: Designator=C17(0805)
+Added Pin To Net: NetName=VCC3V3 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Member To Class: ClassName=BoatSensor Member=Component C17 Cap
+Added Room: Name=BoatSensor

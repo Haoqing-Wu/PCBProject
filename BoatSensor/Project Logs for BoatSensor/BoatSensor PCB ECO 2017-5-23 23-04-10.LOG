@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=D16-1
+Added Pin To Net: NetName=VCC3V3 Pin=D16-1
+Added Room: Name=BoatSensor
