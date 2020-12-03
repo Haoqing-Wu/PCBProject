@@ -1,0 +1,5 @@
+Added Component: Designator=J1(Micro USBÄ¸×ùÌùÆ¬)
+Added Pin To Net: NetName=VCC5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Member To Class: ClassName=core Member=Component J1 USB OTG Port
+Added Room: Name=core

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC_3.3 Pin=P10-1
+Removed Pin From Net: NetName=DIO Pin=P10-2
+Removed Pin From Net: NetName=CLK Pin=P10-3
+Removed Pin From Net: NetName=GND Pin=P10-4
+Removed Member From Class: ClassName=core Member=P10
+Added Room: Name=core

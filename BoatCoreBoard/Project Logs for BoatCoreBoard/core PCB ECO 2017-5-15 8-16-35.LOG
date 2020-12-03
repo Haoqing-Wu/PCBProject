@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC_3.3 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=(VCC_3.3) Pin=P8-1
+Removed Pin From Net: NetName=(GND) Pin=P8-2
+Removed Pin From Net: NetName=(VCC_3.3) Pin=P9-1
+Removed Pin From Net: NetName=(GND) Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=VCC_3.3 Pin=P6-2
+Added Pin To Net: NetName=(GND) Pin=P8-1
+Added Pin To Net: NetName=(VCC_3.3) Pin=P8-2
+Added Pin To Net: NetName=(GND) Pin=P9-1
+Added Pin To Net: NetName=(VCC_3.3) Pin=P9-2
+Added Room: Name=core

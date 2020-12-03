@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=D2
+Change Component Designator: OldDesignator=GYRO NewDesignator=P5
+Change Component Designator: OldDesignator=KEY NewDesignator=K2
+Change Component Designator: OldDesignator=MOT NewDesignator=P4
+Change Component Designator: OldDesignator=OLED NewDesignator=P6
+Change Component Designator: OldDesignator=RESET NewDesignator=K1
+Change Component Designator: OldDesignator=SENSOR NewDesignator=P1
+Change Component Designator: OldDesignator=SERIAL NewDesignator=P2
+Change Component Designator: OldDesignator=SWD NewDesignator=P7
+Change Component Designator: OldDesignator=USB NewDesignator=J1
+Added Component: Designator=C12(0805)
+Added Component: Designator=L1(0805_Inductor)
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC_3.3 Pin=L1-2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=L1-1
+Added Pin To Net: NetName=NetC12_2 Pin=U1-9
+Added Pin To Net: NetName=NetC12_2 Pin=U1-24
+Added Pin To Net: NetName=NetC12_2 Pin=U1-36
+Added Pin To Net: NetName=NetC12_2 Pin=U1-48
+Added Net: Name=NetC12_2
+Added Member To Class: ClassName=core Member=Component C12 Cap
+Added Member To Class: ClassName=core Member=Component L1 Inductor
+Added Room: Name=core

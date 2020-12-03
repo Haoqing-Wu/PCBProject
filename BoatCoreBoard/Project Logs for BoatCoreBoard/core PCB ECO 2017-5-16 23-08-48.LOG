@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=VCC_3.3 Pin=U1-9
+Removed Pin From Net: NetName=VCC_3.3 Pin=U1-24
+Removed Pin From Net: NetName=VCC_3.3 Pin=U1-36
+Removed Pin From Net: NetName=VCC_3.3 Pin=U1-48
+Change Component Designator: OldDesignator=3V3 NewDesignator=D2
+Change Component Designator: OldDesignator=GYRO NewDesignator=P5
+Change Component Designator: OldDesignator=KEY NewDesignator=K2
+Change Component Designator: OldDesignator=MOT NewDesignator=P4
+Change Component Designator: OldDesignator=OLED NewDesignator=P6
+Change Component Designator: OldDesignator=RESET NewDesignator=K1
+Change Component Designator: OldDesignator=SENSOR NewDesignator=P1
+Change Component Designator: OldDesignator=SERIAL NewDesignator=P2
+Change Component Designator: OldDesignator=SWD NewDesignator=P7
+Change Component Designator: OldDesignator=USB NewDesignator=J1
+Added Component: Designator=C12(0805)
+Added Component: Designator=L1(0805_Inductor)
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC_3.3 Pin=L1-2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=L1-1
+Added Pin To Net: NetName=NetC12_2 Pin=U1-9
+Added Pin To Net: NetName=NetC12_2 Pin=U1-24
+Added Pin To Net: NetName=NetC12_2 Pin=U1-36
+Added Pin To Net: NetName=NetC12_2 Pin=U1-48
+Added Net: Name=NetC12_2
+Added Member To Class: ClassName=core Member=Component C1 Cap
+Added Member To Class: ClassName=core Member=Component C2 Cap
+Added Member To Class: ClassName=core Member=Component C3 Cap
+Added Member To Class: ClassName=core Member=Component C4 Cap
+Added Member To Class: ClassName=core Member=Component C12 Cap
+Added Member To Class: ClassName=core Member=Component D1 LED
+Added Member To Class: ClassName=core Member=Component L1 Inductor
+Added Member To Class: ClassName=core Member=Component R1 Res
+Added Member To Class: ClassName=core Member=Component R2 Res
+Added Member To Class: ClassName=core Member=Component R3 Res
+Added Member To Class: ClassName=core Member=Component R4 Res
+Added Member To Class: ClassName=core Member=Component R5 Res
+Added Member To Class: ClassName=core Member=Component R6 Res
+Added Member To Class: ClassName=core Member=Component R7 Res
+Added Member To Class: ClassName=core Member=Component R8 Res
+Added Member To Class: ClassName=core Member=Component R9 Res
+Added Member To Class: ClassName=core Member=Component R10 Res
+Added Member To Class: ClassName=core Member=Component R11 Res
+Added Member To Class: ClassName=core Member=Component U1 STM32F103C8T6
+Added Member To Class: ClassName=core Member=Component U2 AMS1117
+Added Room: Name=core

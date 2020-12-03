@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=(A6) Pin=P8-2
+Removed Pin From Net: NetName=(GND) Pin=P8-3
+Removed Pin From Net: NetName=VCC_3.3 Pin=P9-1
+Removed Pin From Net: NetName=A6 Pin=P9-2
+Removed Pin From Net: NetName=GND Pin=P9-3
+Change Component Footprint: Designator=P9 Old Footprint=HDR1X3 New Footprint=HDR1X4
+Change Component Footprint: Designator=P8 Old Footprint=HDR1X3 New Footprint=HDR1X5
+Change Component Footprint: Designator=P6 Old Footprint=HDR1X4 New Footprint=HDR1X5
+Change Component Comment : Designator=P9 Old Comment=Header 3 New Comment=Header 4
+Change Component Comment : Designator=P8 Old Comment=Header 3 New Comment=Header 5
+Change Component Comment : Designator=P6 Old Comment=Header 4 New Comment=Header 5
+Added Pin To Net: NetName=A6 Pin=P6-5
+Added Pin To Net: NetName=(GND) Pin=P8-2
+Added Pin To Net: NetName=(A6) Pin=P8-5
+Added Pin To Net: NetName=(VCC_3.3) Pin=P9-1
+Added Pin To Net: NetName=(GND) Pin=P9-2
+Added Pin To Net: NetName=(A5) Pin=P8-3
+Added Pin To Net: NetName=(A5) Pin=P9-3
+Added Net: Name=(A5)
+Added Pin To Net: NetName=(A7) Pin=P8-4
+Added Pin To Net: NetName=(A7) Pin=P9-4
+Added Net: Name=(A7)
+Added Room: Name=core

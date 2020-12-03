@@ -1,0 +1,7 @@
+Added Component: Designator=P10(HDR1X4)
+Added Pin To Net: NetName=VCC_3.3 Pin=P10-1
+Added Pin To Net: NetName=DIO Pin=P10-2
+Added Pin To Net: NetName=CLK Pin=P10-3
+Added Pin To Net: NetName=GND Pin=P10-4
+Added Member To Class: ClassName=core Member=Component P10 Header 4
+Added Room: Name=core
