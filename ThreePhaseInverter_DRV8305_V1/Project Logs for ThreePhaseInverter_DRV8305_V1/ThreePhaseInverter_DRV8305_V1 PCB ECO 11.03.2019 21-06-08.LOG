@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PVDD Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=PVDD Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=C27
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=C28
+Change Component Designator: OldDesignator=C25 NewDesignator=C24
+Change Component Designator: OldDesignator=C27 NewDesignator=C25
+Change Component Designator: OldDesignator=C28 NewDesignator=C26
+Added Room: Name=ThreePhaseInverter_DRV8305_V1

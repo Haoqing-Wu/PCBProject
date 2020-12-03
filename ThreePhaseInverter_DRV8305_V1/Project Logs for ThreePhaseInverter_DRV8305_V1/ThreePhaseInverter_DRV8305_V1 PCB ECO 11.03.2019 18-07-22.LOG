@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=PVDD Pin=Q2-1
+Removed Pin From Net: NetName=GH_B Pin=Q2-2
+Removed Pin From Net: NetName=PVDD Pin=Q3-1
+Removed Pin From Net: NetName=GH_C Pin=Q3-2
+Removed Pin From Net: NetName=MOT_B Pin=Q5-1
+Removed Pin From Net: NetName=GL_B Pin=Q5-2
+Removed Pin From Net: NetName=MOT_C Pin=Q6-1
+Removed Pin From Net: NetName=GL_C Pin=Q6-2
+Change Component Footprint: Designator=Q2 Old Footprint=TO-252 New Footprint=SON127P600X105-8M
+Change Component Footprint: Designator=Q3 Old Footprint=TO-252 New Footprint=SON127P600X105-8M
+Change Component Footprint: Designator=Q5 Old Footprint=TO-252 New Footprint=SON127P600X105-8M
+Change Component Footprint: Designator=Q6 Old Footprint=TO-252 New Footprint=SON127P600X105-8M
+Change Component Comment : Designator=Q2 Old Comment=IRLR7843-MOSFET-N New Comment=CSD18540
+Change Component Comment : Designator=Q3 Old Comment=IRLR7843-MOSFET-N New Comment=CSD18540
+Change Component Comment : Designator=Q5 Old Comment=IRLR7843-MOSFET-N New Comment=CSD18540
+Change Component Comment : Designator=Q6 Old Comment=IRLR7843-MOSFET-N New Comment=CSD18540
+Added Pin To Net: NetName=MOT_B Pin=Q2-1
+Added Pin To Net: NetName=MOT_B Pin=Q2-2
+Added Pin To Net: NetName=GH_B Pin=Q2-4
+Added Pin To Net: NetName=PVDD Pin=Q2-5
+Added Pin To Net: NetName=PVDD Pin=Q2-6
+Added Pin To Net: NetName=PVDD Pin=Q2-7
+Added Pin To Net: NetName=PVDD Pin=Q2-8
+Added Pin To Net: NetName=MOT_C Pin=Q3-1
+Added Pin To Net: NetName=MOT_C Pin=Q3-2
+Added Pin To Net: NetName=GH_C Pin=Q3-4
+Added Pin To Net: NetName=PVDD Pin=Q3-5
+Added Pin To Net: NetName=PVDD Pin=Q3-6
+Added Pin To Net: NetName=PVDD Pin=Q3-7
+Added Pin To Net: NetName=PVDD Pin=Q3-8
+Added Pin To Net: NetName=SL_B Pin=Q5-1
+Added Pin To Net: NetName=SL_B Pin=Q5-2
+Added Pin To Net: NetName=GL_B Pin=Q5-4
+Added Pin To Net: NetName=MOT_B Pin=Q5-5
+Added Pin To Net: NetName=MOT_B Pin=Q5-6
+Added Pin To Net: NetName=MOT_B Pin=Q5-7
+Added Pin To Net: NetName=MOT_B Pin=Q5-8
+Added Pin To Net: NetName=SL_C Pin=Q6-1
+Added Pin To Net: NetName=SL_C Pin=Q6-2
+Added Pin To Net: NetName=GL_C Pin=Q6-4
+Added Pin To Net: NetName=MOT_C Pin=Q6-5
+Added Pin To Net: NetName=MOT_C Pin=Q6-6
+Added Pin To Net: NetName=MOT_C Pin=Q6-7
+Added Pin To Net: NetName=MOT_C Pin=Q6-8
+Added Room: Name=ThreePhaseInverter_DRV8305_V1

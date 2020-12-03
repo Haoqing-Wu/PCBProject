@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=MOT_B Pin=Q1-1
+Removed Pin From Net: NetName=MOT_B Pin=Q1-2
+Removed Pin From Net: NetName=MOT_B Pin=Q1-3
+Removed Pin From Net: NetName=GH_B Pin=Q1-4
+Removed Pin From Net: NetName=MOT_C Pin=Q2-1
+Removed Pin From Net: NetName=MOT_C Pin=Q2-2
+Removed Pin From Net: NetName=MOT_C Pin=Q2-3
+Removed Pin From Net: NetName=GH_C Pin=Q2-4
+Removed Pin From Net: NetName=MOT_A Pin=Q3-1
+Removed Pin From Net: NetName=MOT_A Pin=Q3-2
+Removed Pin From Net: NetName=MOT_A Pin=Q3-3
+Removed Pin From Net: NetName=GH_A Pin=Q3-4
+Added Pin To Net: NetName=MOT_A Pin=Q1-1
+Added Pin To Net: NetName=MOT_A Pin=Q1-2
+Added Pin To Net: NetName=MOT_A Pin=Q1-3
+Added Pin To Net: NetName=GH_A Pin=Q1-4
+Added Pin To Net: NetName=MOT_B Pin=Q2-1
+Added Pin To Net: NetName=MOT_B Pin=Q2-2
+Added Pin To Net: NetName=MOT_B Pin=Q2-3
+Added Pin To Net: NetName=GH_B Pin=Q2-4
+Added Pin To Net: NetName=MOT_C Pin=Q3-1
+Added Pin To Net: NetName=MOT_C Pin=Q3-2
+Added Pin To Net: NetName=MOT_C Pin=Q3-3
+Added Pin To Net: NetName=GH_C Pin=Q3-4
+Added Room: Name=ThreePhaseInverter_DRV8305_V1

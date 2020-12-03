@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C6 Old Footprint=0805 New Footprint=1206
+Change Component Footprint: Designator=C18 Old Footprint=0805 New Footprint=1206
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component C25 Cap Poll
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component C26 Cap
+Added Room: Name=ThreePhaseInverter_DRV8305_V1

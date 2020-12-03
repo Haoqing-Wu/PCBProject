@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=SH_A Pin=R22-1
+Removed Pin From Net: NetName=MOT_A Pin=R22-2
+Removed Pin From Net: NetName=SH_B Pin=R23-1
+Removed Pin From Net: NetName=MOT_B Pin=R23-2
+Removed Pin From Net: NetName=SH_C Pin=R24-1
+Removed Pin From Net: NetName=MOT_C Pin=R24-2
+Removed Pin From Net: NetName=SN1 Pin=R25-1
+Removed Pin From Net: NetName=SL_A Pin=R25-2
+Removed Pin From Net: NetName=SN2 Pin=R26-1
+Removed Pin From Net: NetName=SL_B Pin=R26-2
+Removed Pin From Net: NetName=SN3 Pin=R27-1
+Removed Pin From Net: NetName=SL_C Pin=R27-2
+Removed Pin From Net: NetName=SP1 Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=SP2 Pin=R29-1
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Pin From Net: NetName=SP3 Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R30-2
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=R22
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=R23
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=R24
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=R25
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=R26
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=R27
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=R28
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=R29
+Removed Member From Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=R30
+Added Component: Designator=TP1(Testpoint)
+Added Component: Designator=TP2(Testpoint)
+Added Component: Designator=TP3(Testpoint)
+Added Component: Designator=TP4(Testpoint)
+Added Component: Designator=TP5(Testpoint)
+Added Component: Designator=TP6(Testpoint)
+Added Component: Designator=TP7(Testpoint)
+Added Component: Designator=TP8(Testpoint)
+Added Component: Designator=TP9(Testpoint)
+Added Pin To Net: NetName=SH_A Pin=TP1-1
+Added Pin To Net: NetName=MOT_A Pin=TP1-2
+Added Pin To Net: NetName=SH_B Pin=TP2-1
+Added Pin To Net: NetName=MOT_B Pin=TP2-2
+Added Pin To Net: NetName=SH_C Pin=TP3-1
+Added Pin To Net: NetName=MOT_C Pin=TP3-2
+Added Pin To Net: NetName=SN1 Pin=TP4-1
+Added Pin To Net: NetName=SL_A Pin=TP4-2
+Added Pin To Net: NetName=SN2 Pin=TP5-1
+Added Pin To Net: NetName=SL_B Pin=TP5-2
+Added Pin To Net: NetName=SN3 Pin=TP6-1
+Added Pin To Net: NetName=SL_C Pin=TP6-2
+Added Pin To Net: NetName=SP1 Pin=TP7-1
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Pin To Net: NetName=SP2 Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Pin To Net: NetName=SP3 Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=TP9-2
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component TP1 Testpoint
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component TP2 Testpoint
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component TP3 Testpoint
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component TP4 Testpoint
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component TP5 Testpoint
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component TP6 Testpoint
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component TP7 Testpoint
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component TP8 Testpoint
+Added Member To Class: ClassName=ThreePhaseInverter_DRV8305_V1 Member=Component TP9 Testpoint
+Added Room: Name=ThreePhaseInverter_DRV8305_V1

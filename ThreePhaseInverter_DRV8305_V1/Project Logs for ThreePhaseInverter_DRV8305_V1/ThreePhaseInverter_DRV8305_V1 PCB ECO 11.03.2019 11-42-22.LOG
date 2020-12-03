@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=MOT_A Pin=Q1-1
+Removed Pin From Net: NetName=MOT_A Pin=Q1-2
+Removed Pin From Net: NetName=GH_A Pin=Q1-4
+Removed Pin From Net: NetName=PVDD Pin=Q1-5
+Removed Pin From Net: NetName=PVDD Pin=Q1-6
+Removed Pin From Net: NetName=PVDD Pin=Q1-7
+Removed Pin From Net: NetName=PVDD Pin=Q1-8
+Removed Pin From Net: NetName=SL_A Pin=Q4-1
+Removed Pin From Net: NetName=SL_A Pin=Q4-2
+Removed Pin From Net: NetName=GL_A Pin=Q4-4
+Removed Pin From Net: NetName=MOT_A Pin=Q4-5
+Removed Pin From Net: NetName=MOT_A Pin=Q4-6
+Removed Pin From Net: NetName=MOT_A Pin=Q4-7
+Removed Pin From Net: NetName=MOT_A Pin=Q4-8
+Change Component Footprint: Designator=Q1 Old Footprint=SON127P600X105-8M New Footprint=TO-252
+Change Component Footprint: Designator=Q4 Old Footprint=SON127P600X105-8M New Footprint=TO-252
+Change Component Comment : Designator=Q1 Old Comment=CSD18540 New Comment=IRLR7843-MOSFET-N
+Change Component Comment : Designator=Q4 Old Comment=CSD18540 New Comment=IRLR7843-MOSFET-N
+Added Pin To Net: NetName=PVDD Pin=Q1-1
+Added Pin To Net: NetName=GH_A Pin=Q1-2
+Added Pin To Net: NetName=MOT_A Pin=Q4-1
+Added Pin To Net: NetName=GL_A Pin=Q4-2
+Added Room: Name=ThreePhaseInverter_DRV8305_V1
