@@ -1,0 +1,137 @@
+Added Component: Designator=J1(Bigpad)
+Added Component: Designator=J2(Bigpad)
+Added Component: Designator=J3(Bigpad)
+Added Component: Designator=J4(Bigpad)
+Added Component: Designator=J5(Bigpad)
+Added Component: Designator=J6(Bigpad)
+Added Component: Designator=J7(Bigpad)
+Added Component: Designator=J8(Bigpad)
+Added Component: Designator=J9(Bigpad)
+Added Component: Designator=J10(Bigpad)
+Added Component: Designator=J11(Bigpad)
+Added Component: Designator=J12(Bigpad)
+Added Component: Designator=J13(Bigpad)
+Added Component: Designator=J14(Bigpad)
+Added Component: Designator=J15(Bigpad)
+Added Component: Designator=J16(Bigpad)
+Added Component: Designator=J17(Bigpad)
+Added Component: Designator=J18(Bigpad)
+Added Component: Designator=J19(Bigpad)
+Added Component: Designator=J20(Bigpad)
+Added Component: Designator=J21(Bigpad)
+Added Component: Designator=J22(J30J-21)
+Added Component: Designator=J23(J30J-15)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=P4(HDR1X2)
+Added Component: Designator=P5(HDR1X2)
+Added Component: Designator=P6(HDR1X2)
+Added Component: Designator=P7(HDR1X2)
+Added Pin To Net: NetName=BAT01+ Pin=J1-1
+Added Pin To Net: NetName=BAT01+ Pin=J22-1
+Added Net: Name=BAT01+
+Added Pin To Net: NetName=BAT01- Pin=J12-1
+Added Pin To Net: NetName=BAT01- Pin=J22-12
+Added Net: Name=BAT01-
+Added Pin To Net: NetName=BAT02- Pin=J2-1
+Added Pin To Net: NetName=BAT02- Pin=J22-2
+Added Net: Name=BAT02-
+Added Pin To Net: NetName=BAT03- Pin=J13-1
+Added Pin To Net: NetName=BAT03- Pin=J22-13
+Added Net: Name=BAT03-
+Added Pin To Net: NetName=BAT04- Pin=J3-1
+Added Pin To Net: NetName=BAT04- Pin=J22-3
+Added Net: Name=BAT04-
+Added Pin To Net: NetName=BAT05- Pin=J14-1
+Added Pin To Net: NetName=BAT05- Pin=J22-14
+Added Net: Name=BAT05-
+Added Pin To Net: NetName=BAT06- Pin=J4-1
+Added Pin To Net: NetName=BAT06- Pin=J22-4
+Added Net: Name=BAT06-
+Added Pin To Net: NetName=BAT07- Pin=J15-1
+Added Pin To Net: NetName=BAT07- Pin=J22-15
+Added Net: Name=BAT07-
+Added Pin To Net: NetName=BAT08- Pin=J5-1
+Added Pin To Net: NetName=BAT08- Pin=J22-5
+Added Net: Name=BAT08-
+Added Pin To Net: NetName=BAT09- Pin=J16-1
+Added Pin To Net: NetName=BAT09- Pin=J22-16
+Added Net: Name=BAT09-
+Added Pin To Net: NetName=BAT10- Pin=J6-1
+Added Pin To Net: NetName=BAT10- Pin=J22-6
+Added Net: Name=BAT10-
+Added Pin To Net: NetName=BAT11- Pin=J17-1
+Added Pin To Net: NetName=BAT11- Pin=J22-17
+Added Net: Name=BAT11-
+Added Pin To Net: NetName=BAT12- Pin=J7-1
+Added Pin To Net: NetName=BAT12- Pin=J22-7
+Added Net: Name=BAT12-
+Added Pin To Net: NetName=BAT13- Pin=J18-1
+Added Pin To Net: NetName=BAT13- Pin=J22-18
+Added Net: Name=BAT13-
+Added Pin To Net: NetName=BAT14- Pin=J8-1
+Added Pin To Net: NetName=BAT14- Pin=J22-8
+Added Net: Name=BAT14-
+Added Pin To Net: NetName=BAT15- Pin=J19-1
+Added Pin To Net: NetName=BAT15- Pin=J22-19
+Added Net: Name=BAT15-
+Added Pin To Net: NetName=BAT16- Pin=J9-1
+Added Pin To Net: NetName=BAT16- Pin=J22-9
+Added Net: Name=BAT16-
+Added Pin To Net: NetName=BAT17- Pin=J20-1
+Added Pin To Net: NetName=BAT17- Pin=J22-20
+Added Net: Name=BAT17-
+Added Pin To Net: NetName=BAT18- Pin=J10-1
+Added Pin To Net: NetName=BAT18- Pin=J22-10
+Added Net: Name=BAT18-
+Added Pin To Net: NetName=BAT19- Pin=J21-1
+Added Pin To Net: NetName=BAT19- Pin=J22-21
+Added Net: Name=BAT19-
+Added Pin To Net: NetName=BAT20- Pin=J11-1
+Added Pin To Net: NetName=BAT20- Pin=J22-11
+Added Net: Name=BAT20-
+Added Pin To Net: NetName=FAN+ Pin=J23-7
+Added Pin To Net: NetName=FAN+ Pin=P1-2
+Added Net: Name=FAN+
+Added Pin To Net: NetName=FAN- Pin=J23-8
+Added Pin To Net: NetName=FAN- Pin=P1-1
+Added Net: Name=FAN-
+Added Pin To Net: NetName=RT01- Pin=J23-2
+Added Pin To Net: NetName=RT01- Pin=P2-1
+Added Net: Name=RT01-
+Added Pin To Net: NetName=RT01 Pin=J23-1
+Added Pin To Net: NetName=RT01 Pin=P2-2
+Added Net: Name=RT01
+Added Pin To Net: NetName=RT02- Pin=J23-10
+Added Pin To Net: NetName=RT02- Pin=P3-1
+Added Net: Name=RT02-
+Added Pin To Net: NetName=RT02 Pin=J23-9
+Added Pin To Net: NetName=RT02 Pin=P3-2
+Added Net: Name=RT02
+Added Pin To Net: NetName=RT03- Pin=J23-4
+Added Pin To Net: NetName=RT03- Pin=P4-1
+Added Net: Name=RT03-
+Added Pin To Net: NetName=RT03 Pin=J23-3
+Added Pin To Net: NetName=RT03 Pin=P4-2
+Added Net: Name=RT03
+Added Pin To Net: NetName=RT04- Pin=J23-12
+Added Pin To Net: NetName=RT04- Pin=P5-1
+Added Net: Name=RT04-
+Added Pin To Net: NetName=RT04 Pin=J23-11
+Added Pin To Net: NetName=RT04 Pin=P5-2
+Added Net: Name=RT04
+Added Pin To Net: NetName=RT05- Pin=J23-6
+Added Pin To Net: NetName=RT05- Pin=P6-1
+Added Net: Name=RT05-
+Added Pin To Net: NetName=RT05 Pin=J23-5
+Added Pin To Net: NetName=RT05 Pin=P6-2
+Added Net: Name=RT05
+Added Pin To Net: NetName=RT06- Pin=J23-14
+Added Pin To Net: NetName=RT06- Pin=P7-1
+Added Net: Name=RT06-
+Added Pin To Net: NetName=RT06 Pin=J23-13
+Added Pin To Net: NetName=RT06 Pin=P7-2
+Added Net: Name=RT06
+Added Class: Name=BatCollector
+Added Room: Name=BatCollector
